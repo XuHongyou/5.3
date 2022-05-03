@@ -41,30 +41,30 @@ function showDivs(n) {
       return false;}
     }
     function myFunction1() {
-      location.assign("https://www.w3schools.com/html/default.asp")
+      location.assign("https://www.w3schools.com/html/default.asp")；
     }
 
     function myFunction2() {
-      location.replace("https://www.w3schools.com/css/default.asp")
+      location.replace("https://www.w3schools.com/css/default.asp")；
     }
 
     function myFunction3() {
-      location.replace("https://www.w3schools.com/js/default.asp")
+      location.replace("https://www.w3schools.com/js/default.asp")；
     }
     function myFunction4() {
-      location.replace("https://www.w3schools.com/sql/default.asp")
+      location.replace("https://www.w3schools.com/sql/default.asp")；
     }
 
     function myFunction5() {
-      location.replace("https://www.w3schools.com/python/default.asp")
+      location.replace("https://www.w3schools.com/python/default.asp")；
     }
     function myFunction6() {
-      location.replace("https://www.w3schools.com/php/default.asp")
+      location.replace("https://www.w3schools.com/php/default.asp")；
     }
 
     function myFunction7() {
-      location.replace("https://www.w3schools.com/java/default.asp")
+      location.replace("https://www.w3schools.com/java/default.asp")；
     }
     function myFunction8() {
-      location.replace("https://www.w3schools.com/c/index.php")
+      location.replace("https://www.w3schools.com/c/index.php")；
     }
